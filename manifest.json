@@ -1,6 +1,6 @@
 {
   "name": "Wayback Machine Playback Machine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Navigate from a given page to the Internet Archive's Wayback Machine calendar for that page.",
   "permissions": ["tabs"],
   "background": {
